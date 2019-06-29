@@ -3,8 +3,8 @@ This is an implementation of an Energy-Aware module for FreeRTOS, in order to sa
 
 Documentation (in Brazilian Portuguese) as well as source code can be found here.
 Implementations were tested on:
-- TI MSP430F5172 board
-- NXP FRDM-KL25Z board
+- TI MSP430F5172 board (using IAR 5)
+- NXP FRDM-KL25Z board (using KDS 3)
 
 Credits:
 - Cesar Augusto Marcelino dos Santos (dev.cmsantos@gmail.com)
